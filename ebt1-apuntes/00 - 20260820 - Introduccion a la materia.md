@@ -1,4 +1,4 @@
-## Clase 1 - Introducción a la materia
+## Clase 0 - Introducción a la materia
 
 ### Problemas económicos en Argentina
 
