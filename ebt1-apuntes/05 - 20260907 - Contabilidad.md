@@ -37,16 +37,19 @@ Son cuentas permanentes que arrastran saldo de un ejercicio al siguiente y forma
     - **Activo Corriente:** Se convierte en efectivo en menos de 1 año (Caja, Bancos, Créditos por ventas, Stock).
     - **Activo No Corriente:** Tarda más de 1 año en convertirse en efectivo (Equipos, Inmuebles, Software propio activado).
     - **Amortizaciones:** Reflejan el desgaste de un bien de uso durante su vida útil. Se registran como un egreso y acumulativamente en una cuenta que resta dentro del Activo ("Amortizaciones Acumuladas"), sin generar salida real de dinero.
+	    - **Vida Útil Técnica** (VUT): lo que dura el producto en condiciones normales (garantía de uso).
+	    - **Vida Útil Contable** (VUC): cuánto de vida útil tiene el producto para la contabilidad.
+	    - Se cumple: $VUT > VUC$
 - **Pasivo (Obligaciones con terceros):** Se ordena por exigibilidad.
     - **Pasivo Corriente:** Exigible en menos de 1 año (Sueldos a pagar, Deudas comerciales, Impuestos).
     - **Pasivo No Corriente:** Exigible a más de 1 año (Capital de préstamos de largo plazo).
 - **Clasificación de pasivos por certeza:**
 
-|**Tipo**|**¿Monto conocido?**|**¿Fecha conocida?**|**Ejemplo**|
-|---|---|---|---|
-|**Deuda**|Sí|Sí|Cuota de préstamo|
-|**Provisión**|No|Sí|Factura de luz / Vacaciones no gozadas|
-|**Previsión**|No|No|Juicio laboral en curso|
+| **Tipo**      | **¿Monto conocido?** | **¿Fecha conocida?** | **Ejemplo**                            |
+| ------------- | -------------------- | -------------------- | -------------------------------------- |
+| **Deuda**     | Sí                   | Sí                   | Cuota de préstamo                      |
+| **Provisión** | No                   | Sí                   | Factura de luz / Vacaciones no gozadas |
+| **Previsión** | No                   | No                   | Juicio laboral en curso                |
 
 - **Patrimonio Neto (Obligaciones con los socios):**
     - **Capital:** Aportes realizados por los socios.
